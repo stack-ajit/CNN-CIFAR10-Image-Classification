@@ -1,0 +1,30 @@
+# Dataset files
+data/
+cifar-10-batches-py/
+*.tar.gz
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Model artifacts
+*.h5
+*.keras
+*.pkl
+*.pt
+*.pth
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
